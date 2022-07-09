@@ -11,3 +11,15 @@ header > img {
   border: 4px solid black;
   margin-top: -104px;
 }
+footer {
+  margin-bottom: 50px;
+}
+
+footer a {
+  color: #b68c69;
+}
+
+footer a:hover,
+footera:active {
+  color: #a2744e;
+}
