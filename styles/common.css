@@ -5,3 +5,33 @@
   margin: 0;
   padding: 0;
 }
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  letter-spacing: 2px;
+  line-height: 2;
+  font-family: "Lato", sans-serif;
+  background-color: #dfbb9d;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
